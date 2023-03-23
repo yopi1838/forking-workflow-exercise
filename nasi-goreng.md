@@ -2,7 +2,7 @@
 
 For the Spice Paste:
 
--    2 skins
+-    2 taco skins
 
 -    2 small shallots (2 ounces; 55g), roughly chopped
 
