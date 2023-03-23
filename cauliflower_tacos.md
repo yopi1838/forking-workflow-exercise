@@ -1,15 +1,9 @@
+# Cauliflower Tacos Recipe
 
-
-# Cauliflower tacos
-
-This recipe is taken as an example from https://github.com/sinker/tacofancy/blob/master/full_tacos/cauliflower_tacos.md.
-
-We are avid meat eaters, but these vegetarian tacos are one of our go-tos in
-Peru. If you can make the pickles with Peruvian aji amarillo, please do.
-
-- Roast cauliflower
-- Pickled chilis and vegetables
-- Caramelized red onions
-- Guacamole
-- Yogurt
-- Tortilla of choice, warmed in a dry pan
+Ingredients for 4 people:
+- Roasted Cauliflowers (500 g)
+- Pickled Chilis (50 g)
+- Caramelized Red Onions (250 g)
+- Guacamole Sauce (100 g)
+- Yogurt (500 g)
+- Tortillas (500 g)
